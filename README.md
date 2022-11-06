@@ -1,16 +1,30 @@
-# food_ordering_system
+#  Food ordering system
 
-A new Flutter project.
 
-## Getting Started
+### Output 1 ---------------------- : Output 2  ---------------------- : Output 3                 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/200168949-de8a065d-ca72-4ef1-ba94-02a652086cbb.jpg" alt="Screenshot_20221106_165719" width=250 height=480/>
+  
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/200168955-3c8de0cc-afda-4060-9cd0-9c2ee80ef7e2.jpg" alt="Screenshot_20221106_165725" width=250 height=480/>
+  
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/200168957-62174f04-4afb-425b-8f07-93d726dec2bb.jpg" alt="Screenshot_20221106_165757" width=250 height=480/>
+  </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+ Mechanism Video
+  
+https://user-images.githubusercontent.com/96048173/200169045-0ff9da6f-d543-47ac-bd52-59536a54db8d.mp4
+  
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
